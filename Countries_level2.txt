@@ -1,0 +1,71 @@
+MEDIUM
+Albania - Tirana
+Algeria - Algiers
+Angola - Luanda
+Armenia - Yerevan
+Azerbaijan - Baku
+Bahrain - Manama
+Belarus - Minsk
+Belize - Belmopan
+Benin - Porto-Novo
+Bhutan - Thimphu
+Bolivia - Sucre
+Bosnia and Herzegovina - Sarajevo
+Botswana - Gaborone
+Bulgaria - Sofia
+Burkina Faso - Ouagadougou
+Cambodia - Phnom Penh
+Cameroon - Yaoundé
+Chile - Santiago
+Costa Rica - San José
+Croatia - Zagreb
+Cuba - Havana
+Cyprus - Nicosia
+Czech Republic - Prague
+Dominican Republic - Santo Domingo
+Ecuador - Quito
+El Salvador - San Salvador
+Estonia - Tallinn
+Ethiopia - Addis Ababa
+Fiji - Suva
+Georgia - Tbilisi
+Ghana - Accra
+Guatemala - Guatemala City
+Haiti - Port-au-Prince
+Honduras - Tegucigalpa
+Jamaica - Kingston
+Jordan - Amman
+Kazakhstan - Astana
+Kuwait - Kuwait City
+Kyrgyzstan - Bishkek
+Laos - Vientiane
+Latvia - Riga
+Lebanon - Beirut
+Libya - Tripoli
+Lithuania - Vilnius
+Luxembourg - Luxembourg City
+Malawi - Lilongwe
+Maldives - Malé
+Mali - Bamako
+Malta - Valletta
+Moldova - Chișinău
+Mongolia - Ulaanbaatar
+Myanmar - Naypyidaw
+Namibia - Windhoek
+Nicaragua - Managua
+North Macedonia - Skopje
+Oman - Muscat
+Panama - Panama City
+Paraguay - Asunción
+Romania - Bucharest
+Rwanda - Kigali
+Senegal - Dakar
+Serbia - Belgrade
+Slovakia - Bratislava
+Slovenia - Ljubljana
+Sudan - Khartoum
+Tanzania - Dodoma
+Tunisia - Tunis
+Uganda - Kampala
+Uruguay - Montevideo
+Zambia - Lusaka
