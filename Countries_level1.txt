@@ -1,0 +1,59 @@
+EASY 
+Afghanistan - Kabul
+Argentina - Buenos Aires
+Australia - Canberra
+Austria - Vienna
+Bangladesh - Dhaka
+Belgium - Brussels
+Brazil - Brasília
+Canada - Ottawa
+China - Beijing
+Colombia - Bogotá
+Denmark - Copenhagen
+Egypt - Cairo
+Finland - Helsinki
+France - Paris
+Germany - Berlin
+Greece - Athens
+Hungary - Budapest
+Iceland - Reykjavik
+India - New Delhi
+Indonesia - Jakarta
+Iran - Tehran
+Iraq - Baghdad
+Ireland - Dublin
+Israel - Jerusalem
+Italy - Rome
+Japan - Tokyo
+Kenya - Nairobi
+Malaysia - Kuala Lumpur
+Mexico - Mexico City
+Morocco - Rabat
+Nepal - Kathmandu
+Netherlands - Amsterdam
+New Zealand - Wellington
+Nigeria - Abuja
+Norway - Oslo
+Pakistan - Islamabad
+Peru - Lima
+Philippines - Manila
+Poland - Warsaw
+Portugal - Lisbon
+Qatar - Doha
+Russia - Moscow
+Saudi Arabia - Riyadh
+Singapore - Singapore
+South Africa - Pretoria
+South Korea - Seoul
+Spain - Madrid
+Sri Lanka - Sri Jayawardenepura Kotte
+Sweden - Stockholm
+Switzerland - Bern
+Thailand - Bangkok
+Turkey - Ankara
+Ukraine - Kyiv
+United Arab Emirates - Abu Dhabi
+United Kingdom - London
+United States - Washington D.C.
+Vietnam - Hanoi
+Zimbabwe - Harare
