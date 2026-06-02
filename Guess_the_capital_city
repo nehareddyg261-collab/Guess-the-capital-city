@@ -1,0 +1,94 @@
+import java.io.*;
+import java.util.*;
+
+ class CapitalCityGame2 {
+
+    public static void main(String[] args) throws Exception {
+
+        // Load countries + capitals from files
+        Map<String, String> level1 = new LinkedHashMap<>();
+        Map<String, String> level2 = new LinkedHashMap<>();
+        Map<String, String> level3 = new LinkedHashMap<>();
+
+        loadData("countries_level1.txt", level1);
+        loadData("countries_level2.txt", level2);
+        loadData("countries_level3.txt", level3);
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Choose difficulty level:");
+        System.out.println("1. Easy");
+        System.out.println("2. Medium");
+        System.out.println("3. Hard");
+        int choice = sc.nextInt();
+        sc.nextLine(); // clear buffer
+
+        Map<String, String> selectedLevel = null;
+
+        switch (choice) {
+            case 1 -> selectedLevel = level1;
+            case 2 -> selectedLevel = level2;
+            case 3 -> selectedLevel = level3;
+            default -> {
+                System.out.println("Invalid level.");
+                return;
+            }
+        }
+
+        int score = 0;
+        int questions = 5;
+
+        // Shuffle and select 5 random countries
+        List<String> countries = new ArrayList<>(selectedLevel.keySet());
+        Collections.shuffle(countries);
+
+        System.out.println("\n--- START ---\n");
+
+        for (int i = 0; i < questions; i++) {
+
+            String country = countries.get(i);
+            String capital = selectedLevel.get(country);
+
+            System.out.println("What is the capital of " + country + "?");
+            String answer = sc.nextLine().trim();
+
+            // Normalize answer (remove non-letters, ignore case)
+            String expected = capital.replaceAll("[^a-zA-Z]", "").toLowerCase();
+            String submitted = answer.replaceAll("[^a-zA-Z]", "").toLowerCase();
+
+            if (submitted.equals(expected)) {
+                System.out.println("Correct!");
+
+                if (choice == 1) score += 1;
+                if (choice == 2) score += 2;
+                if (choice == 3) score += 3;
+
+            } else {
+                System.out.println("Wrong answer!");
+            }
+
+            System.out.println();
+        }
+
+        System.out.println("Level Completed!");
+        System.out.println("Your final score: " + score);
+    }
+
+    // Function to load country-capital pairs from file
+    static void loadData(String fileName, Map<String, String> map) throws Exception {
+        BufferedReader br = new BufferedReader(new FileReader(fileName));
+        String line;
+
+        while ((line = br.readLine()) != null) {
+            if (!line.contains("-")) continue;
+
+            String[] parts = line.split("-");
+            String country = parts[0].trim();
+            String capital = parts[1].trim();
+
+            map.put(country, capital);
+        }
+
+        br.close();
+    }
+}
