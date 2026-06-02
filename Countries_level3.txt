@@ -1,0 +1,61 @@
+HARD
+Andorra - Andorra la Vella
+Antigua and Barbuda - St. John's
+Bahamas - Nassau
+Barbados - Bridgetown
+Brunei - Bandar Seri Begawan
+Burundi - Gitega
+Cape Verde - Praia
+Central African Republic - Bangui
+Chad - N'Djamena
+Comoros - Moroni
+Congo (Republic of the) - Brazzaville
+Congo (Democratic Republic of the) - Kinshasa
+Djibouti - Djibouti
+Dominica - Roseau
+Equatorial Guinea - Malabo
+Eritrea - Asmara
+Eswatini - Mbabane
+Gabon - Libreville
+Gambia - Banjul
+Grenada - St. George's
+Guinea - Conakry
+Guinea-Bissau - Bissau
+Guyana - Georgetown
+Kiribati - Tarawa
+Lesotho - Maseru
+Liberia - Monrovia
+Liechtenstein - Vaduz
+Madagascar - Antananarivo
+Marshall Islands - Majuro
+Mauritania - Nouakchott
+Mauritius - Port Louis
+Micronesia - Palikir
+Monaco - Monaco
+Mozambique - Maputo
+Nauru - Yaren District
+Niger - Niamey
+Palau - Ngerulmud
+Papua New Guinea - Port Moresby
+Saint Kitts and Nevis - Basseterre
+Saint Lucia - Castries
+Saint Vincent and the Grenadines - Kingstown
+Samoa - Apia
+San Marino - San Marino
+São Tomé and Príncipe - São Tomé
+Seychelles - Victoria
+Sierra Leone - Freetown
+Solomon Islands - Honiara
+Somalia - Mogadishu
+South Sudan - Juba
+Suriname - Paramaribo
+Tajikistan - Dushanbe
+Timor-Leste - Dili
+Togo - Lomé
+Tonga - Nukuʻalofa
+Trinidad and Tobago - Port of Spain
+Turkmenistan - Ashgabat
+Tuvalu - Funafuti
+Vanuatu - Port Vila
+Vatican City - Vatican City
+Yemen - Sana'a
